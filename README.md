@@ -24,7 +24,7 @@ A Flutter application for exploring countries by region, viewing country details
 
 1. **Clone the repository:**
    ```sh
-   git clone <your-repo-url>
+   git clone https://github.com/atmaniali/flugs-app.git
    cd flugs_app
    ```
 
