@@ -65,6 +65,11 @@ A Flutter application for exploring countries by region, viewing country details
   ```
 - The app is designed for educational/demo purposes and may require further enhancements for production use.
 
+**Example for a direct link:**
+```markdown
+[Watch Demo Video](lib/images/Screen_recording_20250617_192833.mp4)
+```
+
 ## License
 
 This project is licensed under the MIT License.
